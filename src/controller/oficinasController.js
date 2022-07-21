@@ -1,1 +1,1 @@
-const music = require('../models/oficinas.json')
+const oficinas = require('../models/oficinas.json')

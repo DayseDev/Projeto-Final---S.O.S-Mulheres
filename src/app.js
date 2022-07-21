@@ -2,15 +2,14 @@
 // rota raiz
 const express = require("express") //importando o express
 
-//importe da continuacao das rotas de filmes
-const Routes = require("./routes/oficinasRoutes")
-
 const app = express() // executo o express
 
-app.use(express.json()) // uso o bodyparser
 
-// criar uma rota raiz
-app.use("/oficinas", Routes)
+const swaggerUi = require('swagger-ui-express');
+
+const swaggerFile = require('../swagger/swagger_output.json');
+
+app.use('/minha-rota-de-documentacao', swaggerUi.serve, swaggerUi.setup(swaggerFile));
 
 
 // exportando para usar o server.js
