@@ -1,6 +1,6 @@
 const app = require("./src/app") //chamando o arquivo app
 
-const PORT = 3131 //PORTA
+const PORT = process.env.PORT
 
 //iniciando o servidor
 app.listen(PORT , ()=>{
