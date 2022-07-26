@@ -20,4 +20,4 @@ Aabaixo estão listados alguns recursos utilizados para o desenvolvimento e exec
 + Documentação:Swagger
 + Hospedagem: Heroku
 
-OBS: Utilizei o postman para testar as requisições.
+OBS: Utilizei o Postman para testar as requisições.
