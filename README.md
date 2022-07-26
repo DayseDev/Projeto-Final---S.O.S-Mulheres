@@ -8,3 +8,5 @@ Toda vez que preciso me deslocar até uma oficina mecânica sinto um desconforto
 Pensando em uma solução que possa amenizar esse tipo de constrangimento desenvolvi esse código que tem o obejtivo de listar estabelicimentos que ofereçam atendimento automotivo exclusivamente prestados por mulheres.
 
 A proposta é que as pessoas (principalmente mulheres) se sintam menos intimidadas e mais confortáveis em utilizar esse tipo de serviço!!!
+
+https://images.app.goo.gl/nx1wwgxBc9f15s559
