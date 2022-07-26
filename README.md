@@ -9,4 +9,3 @@ Pensando em uma solução que possa amenizar esse tipo de constrangimento desenv
 
 A proposta é que as pessoas (principalmente mulheres) se sintam menos intimidadas e mais confortáveis em utilizar esse tipo de serviço!!!
 
-https://images.app.goo.gl/nx1wwgxBc9f15s559
