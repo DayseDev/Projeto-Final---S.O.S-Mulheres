@@ -9,13 +9,16 @@ Pensando em uma solução que possa amenizar esse tipo de constrangimento desenv
 
 A proposta é que as pessoas (principalmente mulheres) se sintam menos intimidadas e mais confortáveis em utilizar esse tipo de serviço!!!
 
+<<<<<<< HEAD
 
 Aabaixo estão listados alguns recursos utilizados para o desenvolvimento e execução do projeto:
 
-+ Linguagem: Java Script
-+ Operações: CRUD
-+ Pacote: Node_Modules
-+ Documentação:Swagger
-+ Hospedagem: Heroku
+Linguagem: Java Script
+Operações: CRUD
+Pacote: Node Modules
+Documentação:Swagger
+Hospedagem: Heroku
 
 OBS: Utilizei o postman para testar as requisições
+=======
+>>>>>>> d803384ca38f6436d63a4729ff8d9802f460592d
