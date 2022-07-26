@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 const oficinaSchema = new mongoose.Schema({
-    id: {
+    _id: {
         type: mongoose.Schema.Types.ObjectId,
         default: mongoose.Types.ObjectId,
     },
