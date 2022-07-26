@@ -1,7 +1,8 @@
 const oficinas = require('../models/oficinasModels')
 
+
 const getAllOficinas = (req, res) => {
-    oficinas.find((err, livros) => {
+    oficinas.find((err, oficinas) => {
         res.status(200).json(oficinas);
     })
 }
@@ -45,6 +46,20 @@ const updateOficinas = (req, res) => {
 };
 
 
+const updateCidade = async (req, res) => {
+    try {
+        const { razaoSocial, nomeFantasia, cidade, numeroTelefone } = req.body
+        const updatedCidade = await oficinas
+            .findByIdAndUpdate(req.params.id, {
+                razaoSocial, nomeFantasia, cidade, numeroTelefone
+            })
+        res.status(200).json(updatedCidade)
+    } catch (error) {
+        console.error(error)
+        res.status(500).json({ message: error.message })
+    }
+}
+
 const deleteOficinas = (req, res) => {
     const id = req.params.id;
 
@@ -55,7 +70,7 @@ const deleteOficinas = (req, res) => {
             res.status(500).send({ message: err.message })
         }
     })
-};
+}
 
 
 module.exports = {
@@ -63,6 +78,10 @@ module.exports = {
     getOficinas,
     createOfinas,
     updateOficinas,
-    deleteOficinas
+    updateCidade,
+    deleteOficinas,
+
+
+
 
 }
