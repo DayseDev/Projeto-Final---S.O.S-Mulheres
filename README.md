@@ -9,8 +9,9 @@ Pensando em uma solução que possa amenizar esse tipo de constrangimento desenv
 
 A proposta é que as pessoas (principalmente mulheres) se sintam menos intimidadas e mais confortáveis em utilizar esse tipo de serviço!!!
 
-
-![GIF](https://user-images.githubusercontent.com/102429411/181092672-5af651aa-b15c-4649-83b0-38fb038c1cef.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102429411/181092672-5af651aa-b15c-4649-83b0-38fb038c1cef.png" width="200px" />
+</div>
 
 Aabaixo estão listados alguns recursos utilizados para o desenvolvimento e execução do projeto:
 
