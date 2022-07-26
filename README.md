@@ -18,7 +18,7 @@ Aabaixo estão listados alguns recursos utilizados para o desenvolvimento e exec
 + Linguagem: Java Script
 + Operações: CRUD
 + Pacote: Node Modules
-+ Documentação:Swagger
++ Documentação: Swagger
 + Hospedagem: Heroku
 
 OBS: Utilizei o Postman para testar as requisições.
