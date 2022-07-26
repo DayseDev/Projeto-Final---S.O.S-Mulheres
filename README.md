@@ -9,7 +9,7 @@ Pensando em uma solução que possa amenizar esse tipo de constrangimento desenv
 
 A proposta é que as pessoas (principalmente mulheres) se sintam menos intimidadas e mais confortáveis em utilizar esse tipo de serviço!!!
 
-![GIF](https://user-images.githubusercontent.com/102429411/181082316-e7715fe5-13bc-48d4-a506-183a4a459208.png)
+
 
 Aabaixo estão listados alguns recursos utilizados para o desenvolvimento e execução do projeto:
 
@@ -19,4 +19,4 @@ Aabaixo estão listados alguns recursos utilizados para o desenvolvimento e exec
 + Documentação:Swagger
 + Hospedagem: Heroku
 
-OBS: Utikizei o postman para testar as requisições
+OBS: Utilizei o postman para testar as requisições
